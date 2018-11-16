@@ -1,0 +1,60 @@
+div#corpo{
+	display:block;
+	width:600px;
+	float: left;
+	padding-right:15px;
+}
+article#design h2{
+	font-size: 13pt;
+	color: rgba(92,97,106, 0.9) ;
+	/*cor*/
+	background-color: ;
+	/*cor*/
+	padding: 5px 0px 5px 10px;
+	margin: 10px 0px 10px 0px;
+}
+
+}
+div#rodape{
+	clear: both;
+	border-top: 1px solid #606060;
+}
+div#rodape p{
+	text-align:center;
+}
+p{
+	text-align:justify;
+	text-indent: 50px;
+}
+h2{
+	text-align:justify;
+	text-indent: 50px;
+}
+div#lateral{
+	display:block;
+	width:400px;
+	float: right;
+	padding:37px;
+	margin:10px;
+	background-color:rgba(255,255,255);
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+}
+div#lateral h1{
+	font-family:'FonteLogo', sans-serif;
+	font-size:20pt;
+	color:#606060;
+	margin-top: 10px;
+	padding-right:100px;
+	margin-left:80px;
+}
+div#lateral h2{
+	/*cor*/
+
+	/*cor*/
+	
+	font-size:13pt;
+	color:#606060;
+	padding:-10px;
+	margin-left:25px;
+	
+}
