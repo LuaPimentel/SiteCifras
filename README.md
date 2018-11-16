@@ -1,5 +1,5 @@
 # SiteCifras
-Site que disponibiliza cifras para violão
+<br> O site tem como objetivo disponibilizar cifras das músicas mais populares, com o foco para o violão. Contará com uma área das TOP 6 Cifras do momento, TOP 6 Artistas (com suas principais músicas) e vídeo aula explicativas, para oferecer um ambiente prático para o usuário.</br> 
 
 
 ## Paleta de cores: 
