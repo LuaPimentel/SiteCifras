@@ -5,7 +5,7 @@
 
 
 ## Paleta de cores: 
-<br> Para o background:  rgba(135,206,250)- LightSkyBlue;</br>
-<br> Para o bckground dos textos principais: rgba(70,130,180)- HexSteelBlue.</br>
-<br> Para o corpo do site: rgba(255,255,255)- White;</br>
-<br> Para o conteúdo lateral: #606060 - HexColor;</br>
+<br> Para o background:  rgba(255,255,255)- White;</br>
+<br> Para o cabeçalho e a divisão lateral:  #eaf0f2- Ciano </br>
+<br> Para os botões: #6495ED - CornflowerBlue;</br>
+<br> Cores das letras: #606060 - Gray;</br>
