@@ -6,6 +6,6 @@
 
 ## Paleta de cores: 
 <br> Para o background:  rgba(255,255,255)- White;</br>
-<br> Para o cabeçalho e a divisão lateral:  #eaf0f2- Ciano </br>
+<br> Para o cabeçalho e a divisão lateral:  #B2DFEE- LightBlue2 </br>
 <br> Para os botões: #6495ED - CornflowerBlue;</br>
 <br> Cores das letras: #606060 - Gray;</br>
